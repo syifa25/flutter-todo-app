@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "949092282206",
+    "project_id": "pertemuan6-587d9",
+    "storage_bucket": "pertemuan6-587d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949092282206:android:314e644f9e02f27ee4e9cf",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949092282206-3ppv36tjre99k2vortq8po5c7djp5ies.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pertemuan6",
+            "certificate_hash": "73d9bd045df0510d941da084f5b7ddde3c204327"
+          }
+        },
+        {
+          "client_id": "949092282206-q8k9o7iep2ftcnik11eplbhiiuvmb0ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pertemuan6",
+            "certificate_hash": "fa3b229b02fbba12e4f95e812bf601da1027a266"
+          }
+        },
+        {
+          "client_id": "949092282206-bqcmh6pj24jd1l0ddotcmo00bsgb65th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKu4wqv0PwHv2iEIuhHGOmWtNIOtyscA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949092282206-bqcmh6pj24jd1l0ddotcmo00bsgb65th.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949092282206-ig3lv8f6m1loco321vlkq4nvs4vj6i2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pertemuan6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
