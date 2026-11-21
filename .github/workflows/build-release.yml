@@ -4,7 +4,8 @@ name: Build and Release APK
 # Menentukan kapan workflow dijalankan
 on:
   push:
-    # Berjalan ketika ada tag yang diawali v
+    branches:
+      - main
     tags:
       - "v*"
 
